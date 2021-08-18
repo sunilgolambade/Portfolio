@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Men&#8217;s Slim Shirt &#8211; sunil-e</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://sunilgolambade.github.io/Port/product-category/mens-slim-shirt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sunilgolambade.github.io/Port</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 15 Aug 2021 12:07:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../../product/levis-mens-slim-shirt-3/index.html</link>
-					<comments>./../../../product/levis-mens-slim-shirt-3/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:41:07 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=835</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=835</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -56,19 +56,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/levis-mens-slim-shirt-3/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../../product/levis-mens-slim-shirt-2/index.html</link>
-					<comments>./../../../product/levis-mens-slim-shirt-2/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:36:12 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=822</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=822</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -98,19 +98,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/levis-mens-slim-shirt-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../../product/levis-mens-slim-shirt/index.html</link>
-					<comments>./../../../product/levis-mens-slim-shirt/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:30:46 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=809</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=809</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -140,19 +140,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/levis-mens-slim-shirt/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../../product/mens-slim-shirt-black/index.html</link>
-					<comments>./../../../product/mens-slim-shirt-black/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/mens-slim-shirt-black/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/mens-slim-shirt-black/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Tue, 10 Aug 2021 10:11:22 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=38</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=38</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -182,7 +182,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/mens-slim-shirt-black/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/mens-slim-shirt-black/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

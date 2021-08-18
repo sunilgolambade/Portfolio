@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sale &#8211; sunil-e</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<atom:link href="http://sunilgolambade.github.io/Port/product-category/sale/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sunilgolambade.github.io/Port</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 14 Aug 2021 08:29:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Men&#8217;s Bag</title>
-		<link>./../../../product/mens-bag/index.html</link>
-					<comments>./../../../product/mens-bag/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/mens-bag/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/mens-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:29:57 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=150</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=150</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -61,19 +61,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/mens-bag/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/mens-bag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Men&#8217;s Jeans</title>
-		<link>./../../../product/mens-jeans/index.html</link>
-					<comments>./../../../product/mens-jeans/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/mens-jeans/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/mens-jeans/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:21:09 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=144</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=144</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -108,19 +108,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/mens-jeans/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/mens-jeans/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Men&#8217;s Jacket</title>
-		<link>./../../../product/mens-jacket/index.html</link>
-					<comments>./../../../product/mens-jacket/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/mens-jacket/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/mens-jacket/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:11:27 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=138</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=138</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -155,19 +155,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/mens-jacket/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/mens-jacket/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Men&#8217;s Puma shoes</title>
-		<link>./../../../product/mens-puma-shoes/index.html</link>
-					<comments>./../../../product/mens-puma-shoes/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/mens-puma-shoes/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/mens-puma-shoes/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:00:10 +0000</pubDate>
-				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=131</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=131</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -205,7 +205,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../product/mens-puma-shoes/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/mens-puma-shoes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Products &#8211; sunil-e</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<atom:link href="http://sunilgolambade.github.io/Port/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://sunilgolambade.github.io/Port</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 15 Aug 2021 11:11:39 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>H&#038;M Men&#8217;s T-Shirt</title>
-		<link>./../../product/hm-mens-t-shirt-2/index.html</link>
-					<comments>./../../product/hm-mens-t-shirt-2/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-2/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 11:08:34 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=887</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=887</guid>
 
 					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
  	<li>
@@ -60,19 +60,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hm-mens-t-shirt-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>H&#038;M Men&#8217;s T-Shirt</title>
-		<link>./../../product/hm-mens-t-shirt/index.html</link>
-					<comments>./../../product/hm-mens-t-shirt/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 11:03:11 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=874</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=874</guid>
 
 					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
  	<li>
@@ -106,19 +106,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hm-mens-t-shirt/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>H&#038;M Men&#8217;s T-Shirt</title>
-		<link>./../../product/hm-mens-t-shirt-copy/index.html</link>
-					<comments>./../../product/hm-mens-t-shirt-copy/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-copy/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-copy/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:58:56 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=861</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=861</guid>
 
 					<description><![CDATA[<ul class="a-unordered-list a-vertical a-spacing-mini">
  	<li>
@@ -152,19 +152,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/hm-mens-t-shirt-copy/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/hm-mens-t-shirt-copy/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../product/levis-mens-slim-shirt-3/index.html</link>
-					<comments>./../../product/levis-mens-slim-shirt-3/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:41:07 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=835</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=835</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -194,19 +194,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/levis-mens-slim-shirt-3/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../product/levis-mens-slim-shirt-2/index.html</link>
-					<comments>./../../product/levis-mens-slim-shirt-2/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:36:12 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=822</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=822</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -236,19 +236,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/levis-mens-slim-shirt-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Levis Men&#8217;s Slim Shirt</title>
-		<link>./../../product/levis-mens-slim-shirt/index.html</link>
-					<comments>./../../product/levis-mens-slim-shirt/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 10:30:46 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=809</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=809</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -278,19 +278,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/levis-mens-slim-shirt/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/levis-mens-slim-shirt/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zara Women&#8217;s Top</title>
-		<link>./../../product/zara-womens-top-3/index.html</link>
-					<comments>./../../product/zara-womens-top-3/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/zara-womens-top-3/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/zara-womens-top-3/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:59:20 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=770</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=770</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -318,19 +318,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/zara-womens-top-3/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/zara-womens-top-3/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zara Women&#8217;s Top</title>
-		<link>./../../product/zara-womens-top-2/index.html</link>
-					<comments>./../../product/zara-womens-top-2/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/zara-womens-top-2/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/zara-womens-top-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:54:01 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=757</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=757</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -358,19 +358,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/zara-womens-top-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/zara-womens-top-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Zara Women&#8217;s Top</title>
-		<link>./../../product/zara-womens-top/index.html</link>
-					<comments>./../../product/zara-womens-top/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/zara-womens-top/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/zara-womens-top/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:49:10 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=744</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=744</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -398,19 +398,19 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/zara-womens-top/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/zara-womens-top/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Globus Women&#8217;s Kurti</title>
-		<link>./../../product/womens-kurti-2/index.html</link>
-					<comments>./../../product/womens-kurti-2/index.html#respond</comments>
+		<link>http://sunilgolambade.github.io/Port/product/womens-kurti-2/</link>
+					<comments>http://sunilgolambade.github.io/Port/product/womens-kurti-2/#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Sun, 15 Aug 2021 09:27:22 +0000</pubDate>
-				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=718</guid>
+				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=718</guid>
 
 					<description><![CDATA[<hr class="a-divider-normal bucketDivider" aria-hidden="true" />
 
@@ -438,7 +438,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../product/womens-kurti-2/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/womens-kurti-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
