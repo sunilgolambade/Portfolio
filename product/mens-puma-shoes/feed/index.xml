@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Men&#8217;s Puma shoes	</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product/mens-puma-shoes/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port/product/mens-puma-shoes/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 14 Aug 2021 07:17:59 +0000</lastBuildDate>
 	<sy:updatePeriod>

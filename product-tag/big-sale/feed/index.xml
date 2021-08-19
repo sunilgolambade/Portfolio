@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Big Sale &#8211; sunil-e</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product-tag/big-sale/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 14 Aug 2021 08:18:13 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>Women&#8217;s Jeans</title>
-		<link>http://sunilgolambade.github.io/Port/product/womens-jeans/</link>
-					<comments>http://sunilgolambade.github.io/Port/product/womens-jeans/#respond</comments>
+		<link>./../../../product/womens-jeans/index.html</link>
+					<comments>./../../../product/womens-jeans/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:33:56 +0000</pubDate>
-				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=154</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=154</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -61,19 +61,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/womens-jeans/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/womens-jeans/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Women&#8217;s Jacket</title>
-		<link>http://sunilgolambade.github.io/Port/product/womens-jacket/</link>
-					<comments>http://sunilgolambade.github.io/Port/product/womens-jacket/#respond</comments>
+		<link>./../../../product/womens-jacket/index.html</link>
+					<comments>./../../../product/womens-jacket/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:25:50 +0000</pubDate>
-				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=147</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=147</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -108,19 +108,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/womens-jacket/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/womens-jacket/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Women&#8217;s Nike shoes Gray</title>
-		<link>http://sunilgolambade.github.io/Port/product/womens-nike-shoes-white/</link>
-					<comments>http://sunilgolambade.github.io/Port/product/womens-nike-shoes-white/#respond</comments>
+		<link>./../../../product/womens-nike-shoes-white/index.html</link>
+					<comments>./../../../product/womens-nike-shoes-white/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:16:43 +0000</pubDate>
-				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=141</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=141</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -158,19 +158,19 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/womens-nike-shoes-white/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/womens-nike-shoes-white/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Women&#8217;s stylish Handbags</title>
-		<link>http://sunilgolambade.github.io/Port/product/womens-stylish-handbags/</link>
-					<comments>http://sunilgolambade.github.io/Port/product/womens-stylish-handbags/#respond</comments>
+		<link>./../../../product/womens-stylish-handbags/index.html</link>
+					<comments>./../../../product/womens-stylish-handbags/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sunil]]></dc:creator>
 		<pubDate>Wed, 11 Aug 2021 06:01:39 +0000</pubDate>
-				<guid isPermaLink="false">http://sunilgolambade.github.io/Port/?post_type=product&#038;p=134</guid>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=134</guid>
 
 					<description><![CDATA[<h2>Product details</h2>
 <div id="detailBullets_feature_div">
@@ -208,7 +208,7 @@
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://sunilgolambade.github.io/Port/product/womens-stylish-handbags/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../product/womens-stylish-handbags/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

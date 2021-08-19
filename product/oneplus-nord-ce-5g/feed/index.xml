@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: OnePlus Nord CE 5G	</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product/oneplus-nord-ce-5g/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port/product/oneplus-nord-ce-5g/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 13 Aug 2021 05:56:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

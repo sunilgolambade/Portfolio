@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: apple iphone 12	</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product/apple-iphone-12-2/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port/product/apple-iphone-12-2/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 13 Aug 2021 05:44:14 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: DELL Inspiron	</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product/dell-inspiron/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port/product/dell-inspiron/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 14 Aug 2021 07:23:04 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Redmi Note 10T 5G	</title>
-	<atom:link href="http://sunilgolambade.github.io/Port/product/redmi-note-10t-5g/feed/" rel="self" type="application/rss+xml" />
-	<link>http://sunilgolambade.github.io/Port/product/redmi-note-10t-5g/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Tue, 10 Aug 2021 12:19:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
